@@ -1,0 +1,11 @@
+ALGORITHM			N		COMPARISONS		SECONDS
+Selection Sort		1			0			0.0
+Merge Sort			1			0			0.0
+Selection Sort		10			45			0.0
+Merge Sort			10			22			0.0
+Selection Sort		100			4950		0.0
+Merge Sort			100			565			0.0
+Selection Sort		1000	    499500		0.1718885898590088
+Merge Sort			1000		9295		0.015628337860107422
+Selection Sort		10000		49995000	19.82952117919922
+Merge Sort			10000		129777		0.12501072883605957
